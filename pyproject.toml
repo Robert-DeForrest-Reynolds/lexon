@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lexon"
+version = "0.0.0"
+description = "Utility for handling argument parsing"
+requires-python = ">=3"
+readme = "README.md"
+license = "MIT"
+keywords = []
+authors = [{name = ""}]
+dependencies = [
+]
+
+
+[project.urls]
+Homepage = https://github.com/Robert-DeForrest-Reynolds/lexon
+Repository = https://github.com/Robert-DeForrest-Reynolds/lexon
